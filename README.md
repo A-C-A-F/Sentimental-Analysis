@@ -16,6 +16,5 @@ We are going to labelize each of the tweets with positive, negative and neutral 
 ### Below is the summary of the tasks performed in this project:
 - __Task 1:__ Introduction and Loading our Dataset
 - __Task 2:__ Text preprocessing 
-- __Task 3:__ Let’s Explore our Date  
-- __Task 4:__ Sentimental Analysis 
-- __Task 5:__ Visualizing the Result
+- __Task 3:__ Sentimental Analysis 
+- __Task 4:__ Visualizing the Result
