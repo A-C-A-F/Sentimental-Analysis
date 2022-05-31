@@ -4,7 +4,7 @@ Sentimental Analysis on COVID-19 Tweets using python
 
 In this project, we are going to use a dataset consisting of the data related to tweets from 24th of July 2020 to 30th August 2020 with Covid19 hashtags. We're going to use python to apply sentiment analysis on the tweets to see people reactions to the pandemic during the mentioned period.
 
- __Data Source:__ *https://raw.githubusercontent.com/gabrielpreda/covid-19-tweets/master/covid19_tweets.csv*
+ __Data Source:__ *https://www.kaggle.com/datasets/gpreda/covid19-tweets*
 
 We are going to labelize each of the tweets with positive, negative and neutral labels. After that, we're going to visualize the results to see the people reactions on Twitter on the mentioned period.
 
