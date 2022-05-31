@@ -1,4 +1,4 @@
-# Sentimental-Analysis
+# Sentimental-Analysis-Using-Python
 Sentimental Analysis on COVID-19 Tweets using python
 
 
